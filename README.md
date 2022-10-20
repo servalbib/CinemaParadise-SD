@@ -14,7 +14,7 @@ movies in a single click.
 
 Check out [FRONTEND LIVE DEMO](https://frontend-cenema.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-cenema.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://cinemaparadiseback.servalbib.repl.co/) here!!
 
 ## Tech used
 
